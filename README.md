@@ -63,3 +63,9 @@ Snake Game is a simple graphical game developed using Java Swing. The player con
 
 - SnakeGame.java – Main game source code
 - README.txt – Project documentation
+
+- ## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot 2026-11-17 183915" src="https://github.com/user-attachments/assets/a932f6c5-7cf8-4a0d-99e9-47eb979cd17d" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-17 183957" src="https://github.com/user-attachments/assets/ba322b9b-3868-48f0-b015-582921578c86" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-17 183946" src="https://github.com/user-attachments/assets/7abcbd7f-63ec-4968-a755-96eb4dbf3311" />
